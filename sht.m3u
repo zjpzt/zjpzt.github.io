@@ -122,3 +122,4 @@ http://220.130.241.203:1935/sjtv/livestream_720p/playlist.m3u8
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="TAIWAN",TVBS
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+TVBS HD,http://59.125.101.187:8545/http/116.50.42.19：8081/hls/64/806/ch15.m3u8
