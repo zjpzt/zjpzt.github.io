@@ -1041,4 +1041,4 @@ https://b-hls-16.doppiocdn.com/hls/74548641/74548641.m3u8
 #EXTINF:-1 group-title="LIVE",winona__
 https://b-hls-17.strpst.com/hls/66786361/66786361_160p.m3u8
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-http://iptv.tvfix.org/hls/jade.m3u8
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
