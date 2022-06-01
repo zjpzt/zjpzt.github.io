@@ -16,110 +16,433 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ/UWeTXAOfpju0oZkr0UtvrZ8k=&
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Singapore",Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-//#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-//http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
-#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="" group-title="香港",無線電視翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="香港",無線互動新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" tvg-name="" group-title="香港",無線財經資訊台
-http://livetv.dnsfor.me/channel.11.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png" tvg-name="" group-title="香港",無線電視J1台
-https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
-//#EXTINF:0 tvg-logo="https://www.chillglobal.com/images/channels/tvb-j2-1432636011.jpg" tvg-name="" group-title="香港",無線電視J2台
-//http://livetv.dnsfor.me/channel.19.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-name="" group-title="香港",無線電視明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV
-http://livetv.dnsfor.me/channel.20.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-
-#EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
-http://livetv.dnsfor.me/channel.5.m3u8
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
-http://teslagram.com/live/channel_110.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
-http://livetv.dnsfor.me/channel.7.m3u8
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
-//http://pullstream-ucan.speedws.com/live/65a9327d633a25634b1db9eff823071e/playlist.m3u8
-//#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg" group-title="香港",有線603台
-//http://pullstream-ucan.speedws.com/live/d910706635c34f85df619019bf9ca089/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
-http://teslagram.com/live/channel_332.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
-http://teslagram.com/live/channel_331.m3u8
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="香港",NowSportsPRIME
-http://livetv.dnsfor.me:80/channel.12.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
-http://livetv.dnsfor.me/channel.2.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="http://infoua.biz/image/tv/stream/jasmin.png",𝑱𝑨𝑺𝑴𝑰𝑵 𝑻𝑽
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long+logo_kaloopy.jpg?format=1500w",𝑲𝑨𝑳𝑶𝑶𝑷𝒀
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="https://mobile.coolstreaming.us/blog/diretta-tv/resize.php?src=https://www.coolstreaming.us/img/ch/image94385599345.jpg&h=60&w=130&q=50",𝑨𝟑 𝑩𝑰𝑲𝑰𝑵𝑰
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",𝑴𝑰𝑨𝑴𝑰 𝑻𝑽
+http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",𝑴𝑰𝑨𝑴𝑰 𝑻𝑽 𝑳𝑨𝑻𝑰𝑵𝑶
+https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/chunklist_w38958572_b1896000.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.webp",𝑭𝑨𝑺𝑯𝑰𝑶𝑵 𝑩𝑰𝑲𝑰𝑵𝑰
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="👙 𝑭𝑨𝑺𝑯𝑰𝑶𝑵" tvg-logo="http://www.wishtube.com/thumb.php?src=http://www.parsatv.com/index_files/channels/runwaytv.png",𝑹𝑼𝑵𝑾𝑨𝒀
+https://vse2-as-all81.secdn.net/runway-origin/live/runway/chunklist_sess278968327.m3u8
 
 
-#EXTINF:0 tvg-logo="" tvg-name="亞旅衛視" group-title="香港",亞旅衛視
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225144GK51.png" tvg-name="星空衛視" group-title="香港",星空衛視
-rtmp://58.200.131.2:1935/livetv/startv?checkedby:hlscat.com
-#EXTINF:0 tvg-logo="https://www.searchpng.com/wp-content/uploads/2019/02/Star-Sports-Logo-PNG-Image-1024x1024.png" tvg-name="" group-title="香港",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+# TV AdultIPTV
 
-#EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
-https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_hi_1080p.m3u8
-//#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
-//https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo_720p.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",ANAL
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",ASIAN
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",BIGTITS
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",CUCKOLD
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",FETISH
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",GAY
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",HARDCORE
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",LATINA
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",LESBIAN
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",MILF
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",PORNSTAR
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",POV
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",RUSSIAN
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",TEEN
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/11/cropped-adult-tv-channels.png",THREESOME
+https://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/42/香港卫视HKS.jpg" tvg-name="" group-title="香港",香港衛視HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-cbtv-taiwan.jpg" group-title="TAIWAN",CBTV
-plugin://plugin.video.youtube/play/?video_id=sUjmSeE7vUE
-#EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="TAIWAN",CNEX
-http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/cti_tv_news.png" group-title="TAIWAN",CTI TV News
-plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-cts-taiwan-news.jpg" group-title="TAIWAN",CTS
-plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/da_ai_tv_tw.png" group-title="TAIWAN",Da Ai TV
-plugin://plugin.video.youtube/play/?video_id=oV_i3Hsl_zg
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ebc_tw_news.png" group-title="TAIWAN",EBC News
-plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-taiwan-formosa-tv.jpg" group-title="TAIWAN",Formosa
-plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="TAIWAN",FTV News
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-hakka-tv-3678-300x225.jpg" group-title="TAIWAN",Hakka TV
-plugin://plugin.video.youtube/play/?video_id=LWwepk1p5kE
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-hwazan-satellite-tv-3720-300x225.jpg" group-title="TAIWAN",HZTV
-plugin://plugin.video.youtube/play/?video_id=eC0uICSnm14
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/taiwan_indigenous_tv.png" group-title="TAIWAN",Indigenous TV
-http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Set News
-plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sjtv_star_tw.png" group-title="TAIWAN",SJTV Taiwan
-http://220.130.241.203:1935/sjtv/livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
-plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="TAIWAN",TVBS
-http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-TVBS HD,http://59.125.101.187:8545/http/116.50.42.19：8081/hls/64/806/ch15.m3u8
+#SEXY CLIP
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",1
+https://hls-hw.xvideos-cdn.com/videos_new/hls/63/ed/ea/63edeaa2bf3b1e448c95c9659fc787df/hls-1080p-e48bf.m3u8?e=1654069938&l=0&h=86474db2d2a95bc20295d3511c4d1901
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",2
+https://hls-hw.xvideos-cdn.com/videos/hls/ee/68/9f/ee689fac4dc3993d17c814812adb4f2b/hls-480p-4575b.m3u8?e=1654068884&l=0&h=78d3abce40d1dc5b5dc3f2924b2dd46c
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",3
+https://hls-hw.xvideos-cdn.com/videos/hls/61/2e/09/612e09ac7b6e9e1b8eb0cb6822107435-1/hls-1080p-5cd8b.m3u8?e=1654068098&l=0&h=94fc094eaae80b2c3e272d264b93cd25
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",4
+https://hls-hw.xvideos-cdn.com/videos/hls/ca/20/34/ca203465080c1d86f454ae7287113ed3-1/hls-1080p-ab8ea.m3u8?e=1654068509&l=0&h=5b5ac0e4e88f2464d86346f502f45181
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",5
+https://hls-hw.xvideos-cdn.com/videos/hls/6f/7e/25/6f7e25f6360fa5f78c92663cd824e2df/hls-480p.m3u8?e=1654070035&l=0&h=c7e09ec03de495520333cc64734da270
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",6
+https://hls-hw.xvideos-cdn.com/videos/hls/96/f1/17/96f11795626af467e51a4914b10d2d14/hls-480p.m3u8?e=1654068793&l=0&h=112d92ed4279d03990ea10b8893572bb
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",7
+https://hls-hw.xvideos-cdn.com/videos/hls/a7/60/7a/a7607a31054306249cc684e89bb22df4/hls-480p.m3u8?e=1654068756&l=0&h=e4c395907f27a23c9a53b0de56c667ba
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",8
+https://hls-hw.xvideos-cdn.com/videos/hls/62/98/19/62981940f828d50a4bca025bf81ac68f/hls-480p.m3u8?e=1654068316&l=0&h=2d3e5c5d1ec0b2a3d5d0df7756926052
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",9
+https://hls-hw.xvideos-cdn.com/videos/hls/b4/11/8e/b4118ec58aa03c34bb96f2018b94ec37-2/hls-1080p-dce04.m3u8?e=1654070644&l=0&h=5edfc452527f90a2113f13d2d1410142
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",10
+https://hls-hw.xvideos-cdn.com/videos/hls/02/25/95/02259523b302d746b012f46abe767c0e-1/hls-360p.m3u8?e=1654070392&l=0&h=30f54aac0d718bb29ef80a8fc996f40d
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",11 KIM BINH MAI
+https://hls1-l3.xvideos-cdn.com/0af2b61bee6cbb81c7f2036ec52b90cf18b6314c-1654069736/videos/hls/c7/43/c0/c743c0de730dc7c73013e88462c5098c/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",12
+https://hls-hw.xvideos-cdn.com/videos/hls/92/40/05/9240054f69076325aea795b676a53c29/hls-720p.m3u8?e=1654070472&l=0&h=634cae00496189973276e60115adf160
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",13
+https://hls-hw.xvideos-cdn.com/videos/hls/8d/ef/8b/8def8ba47a15cb58ab59fe27ce029fac/hls-360p.m3u8?e=1654070168&l=0&h=01ba82d9d6d1a0cd89d0ab3f5009ed4a
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",14
+https://hls-hw.xvideos-cdn.com/videos/hls/1c/67/71/1c6771936a611ef79db40da79358de24-1/hls-1080p-55efa.m3u8?e=1654070786&l=0&h=ac503b6188178f53a756484ee1b7b5d7
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",15
+https://hls-hw.xvideos-cdn.com/videos/hls/61/d5/80/61d580c6930ff18636c18f52f5d7b47a/hls-360p-bccb8.m3u8?e=1654069081&l=0&h=c6f3aad69687c803159088d0ca7582d5
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",16 INDIA
+https://hls4-l3.xvideos-cdn.com/16e402b5539cad799b53392a79f89076507c4556-1654068045/videos_new/hls/2c/c1/f2/2cc1f25b6010ff76c9b18d356ca6324e/hls-1080p-178e0.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",17
+https://hls-hw.xvideos-cdn.com/videos/hls/28/b6/59/28b6590900eda46d924bafba081b931f/hls-360p.m3u8?e=1654068874&l=0&h=4db495eab30ca0cbc06a5e54c038ff77
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",18
+https://hls1-l3.xvideos-cdn.com/c8f86b07ade0fe66f2cc7c5d6ac593606d233b18-1654068189/videos/hls/c3/44/25/c344258a82f324874e55533774389e7c/hls-720p-42a1a.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",19
+https://hls-hw.xvideos-cdn.com/videos/hls/16/9b/88/169b88f1e15bf9cdd2c3fa01211384b7/hls-720p-8e748.m3u8?e=1654069893&l=0&h=159d2049048bbd8c4f764cc073bd8a97
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",20 CHI VA EM CHINA 2
+https://hls-hw.xvideos-cdn.com/videos/hls/51/6f/e5/516fe53ae8bcef59e8cb95b7d924a41f/hls-360p.m3u8?e=1654067988&l=0&h=9a36321208715dfbdf2579fbff70d13b
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",21 GAI GOI CHINA 1
+https://hls1-l3.xvideos-cdn.com/e5a4b338642897ca0958cfe3d0b275715cc311d1-1654070247/videos/hls/54/19/50/5419503bbb60e7820f5228a274521b07-1/hls-720p-31c46.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",22 GAI GOI CHINA 2
+https://hls2-l3.xvideos-cdn.com/067060e12925e22bd40d3b6c55a5ec1e27a62f00-1654067635/videos/hls/5e/66/11/5e6611d50977c56907ee81a763f2982d-1/hls-1080p-a2c25.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",23 EM DAU GA TINH VIETNAM
+https://hls4-l3.xvideos-cdn.com/c96abaf5ec39846c35bbf6213cc000e15d24906c-1654069369/videos/hls/71/c1/91/71c19116243ff98fe8c17cb3f371217d/hls-1080p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",24
+https://hls-hw.xvideos-cdn.com/videos/hls/5c/c5/3b/5cc53b8439da5f4095688a37bc430565/hls-1080p-9bd84.m3u8?e=1654071365&l=0&h=e1d2b78ec76e8ecc3e768f48533754b1
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",25
+https://hls-hw.xvideos-cdn.com/videos/hls/54/05/c4/5405c40b7d867bf8ba66f9aa66f6578b/hls-360p.m3u8?e=1654068118&l=0&h=7b96994a5fd7723714ea77fba8e6fc80
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",26 BO CHONG CON DAU VIETNAM
+https://hls-hw.xvideos-cdn.com/videos/hls/37/21/41/372141ce9841f8aa1e5be2512219a7f1/hls-1080p-156d9.m3u8?e=1654068519&l=0&h=2dc93ba309b4620dcd958358b9088ebf
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",27 SCANDAL MINH PHUONG
+https://hls-hw.xvideos-cdn.com/videos/hls/fc/c1/36/fcc136c980da7fc2b3877b5d508c6674-1/hls-720p-86175.m3u8?e=1654071004&l=0&h=b7a61710de8acd84b7c83daa2c94b4dd
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",28 EM CHONG NANG DAU VIETNAM
+https://hls-hw.xvideos-cdn.com/videos/hls/d6/b8/a0/d6b8a0bd18193b2b322f20040f7f88aa/hls-720p-29c46.m3u8?e=1654068998&l=0&h=d708d8e360d3aff3fc01ba302ac6a01d
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",29 EM TRAI NUOI
+https://hls-hw.xvideos-cdn.com/videos/hls/bc/b9/99/bcb99930e373bcf9db404842206c89f5/hls-1080p-117d0.m3u8?e=1654071675&l=0&h=254e01243f904890f15a199b6f64c1ba
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",30 Iioka Kanako - Woman Fucking
+https://hls-hw.xvideos-cdn.com/videos_new/hls/52/45/2b/52452ba5839ea75af80a0d8b88fdfdbb/hls-720p-b17fe.m3u8?e=1654068664&l=0&h=6a26bb29c4727ccb6626d98615504704
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",31 Iioka Kanako - Sexy Girl In The Bed
+https://hls-hw.xvideos-cdn.com/videos/hls/08/9e/f6/089ef64fe483b3f8d83015b29ff68eb5/hls-360p.m3u8?e=1654071931&l=0&h=be45a6ac97b174bc810276fe86b6e865
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",32 Iioka Kanako - Mother and son's
+https://hls-hw.xvideos-cdn.com/videos/hls/b0/b2/c1/b0b2c16708b7dbe0bcbdfda6fb93fbe0/hls-720p.m3u8?e=1654071977&l=0&h=8537749ec5dc5ef327141a73c14720e6
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",33 Iioka Kanako - beautiful
+https://hls-hw.xvideos-cdn.com/videos/hls/9c/09/23/9c092342bdfb50e1cdd47f23ae5b4d22/hls-360p.m3u8?e=1654070971&l=0&h=e3db4215cd48df485349abc1a106df51
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",34 Iioka Kanako - Sexy Girl In The Room
+https://hls-hw.xvideos-cdn.com/videos/hls/98/c2/1f/98c21fa144c6f5239278bac1656f20f3/hls-360p.m3u8?e=1654072052&l=0&h=34f0c7f11492fc1db3345fe7b7e9dc03
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",35 Iioka Kanako - Kissing addiction
+https://hls2-l3.xvideos-cdn.com/b7b54f4a822900c483b01cf97ecefe7b456d3ed8-1654072079/videos/hls/5b/03/8f/5b038fde3620ace33a852a91154bd207/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",36 Bokep
+https://hls-hw.xvideos-cdn.com/videos/hls/a4/64/b1/a464b102a11e0df05f2c9c16080aa958/hls-360p-9069c.m3u8?e=1654068604&l=0&h=e37cecbbf87b3c0c5ebbaff80732eb13
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",37 Akage
+https://hls1-l3.xvideos-cdn.com/bafb369e561e680f7defe93cd973bfc72d788f7c-1654071225/videos/hls/23/fd/f7/23fdf73ef3c6990275b8f961fbc1a5c7/hls-360p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",38  Aimi Yoshikawa 熱帯不倫旅行
+https://hls2-l3.xvideos-cdn.com/1d98b020aee527c3a0c850f26172dab0cd5fb781-1654069424/videos/hls/50/53/49/50534973cff3daa5ca78513befd2151f/hls-1080p-b7deb.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",39  Aimi Yoshikawa-Outdoor
+https://hls-hw.xvideos-cdn.com/videos/hls/13/2c/c6/132cc62562fc28baa4f9bfcff25d1696/hls-720p-dbcf4.m3u8?e=1654070842&l=0&h=732ad6b0418d72fb52283105ee166142
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",40  Aimi Yoshikawa _ mom in catsuit facialized
+https://hls-hw.xvideos-cdn.com/videos/hls/74/0c/36/740c36a365a284a23495a2360fa8141a-1/hls-720p.m3u8?e=1654069504&l=0&h=b7d3061daad547239721ce907bb03809
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",41 Aimi Yoshikawa _ mom takes on three dicks
+https://hls-hw.xvideos-cdn.com/videos/hls/5e/64/38/5e6438101241c0f03c4ce6e09c362a7b-1/hls-720p.m3u8?e=1654071931&l=0&h=5002f944926757e404f1697282d2576e
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",42  Aimi Yoshikawa _ milf takes jizz on face
+https://hls1-l3.xvideos-cdn.com/12e28e25cb1b8881e679193708107352c542c16a-1654071429/videos/hls/28/95/b8/2895b84fa028140e37506c8426512840-1/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",43  Aimi Yoshikawa _
+https://hls-hw.xvideos-cdn.com/videos/hls/5b/8a/2a/5b8a2a73a6e94d7fc966565df142c5a2/hls-1080p-3e9f2.m3u8?e=1654071398&l=0&h=a1173b086c1965a8de781a270c8c38f7
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",44  Aimi Yoshikawa _ Profile introduction
+https://hls-hw.xvideos-cdn.com/videos/hls/e7/14/4a/e7144ae9f2cc65795faf1aa554c896e8/hls-720p.m3u8?e=1654072483&l=0&h=dad0ec677eba4d2e2a948d5afbeb85cb
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",45  Aimi Yoshikawa _ Melons and Hairy Bush
+https://hls-hw.xvideos-cdn.com/videos/hls/55/a2/77/55a2774591a42afd3524b578563b9bcc/hls-720p.m3u8?e=1654072193&l=0&h=6f0ab000949c8f2f5dfe07df85dfec12
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",46  Aimi Yoshikawa _ Hidden Cam Young
+https://hls-hw.xvideos-cdn.com/videos/hls/65/15/5c/65155c3f4fad431494826cfa30bcdfe8/hls-720p.m3u8?e=1654072225&l=0&h=efb3a543d3e7460e14fe640569031923
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",47  Aimi Yoshikawa _ Peeping
+https://hls4-l3.xvideos-cdn.com/7afc84baa9657cc4b84d8a0a9ece2c8dd2f74b08-1654072776/videos/hls/6f/73/fc/6f73fc7825d1754961332683b9687a13/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",48  Aimi Yoshikawa _ Melons Extreme Orgasm with Dildo
+https://hls-hw.xvideos-cdn.com/videos/hls/13/47/cf/1347cf36cf3a2ea2cd6848b518102d57/hls-720p.m3u8?e=1654072799&l=0&h=b563b9966bf090f39c0cfc2154526a86
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",49  Aimi Yoshikawa _ YMGK-001
+https://hls-hw.xvideos-cdn.com/videos_new/hls/53/ec/0a/53ec0a28ff34f769bee10d15a6ce175e/hls-1080p-b64cc.m3u8?e=1654072838&l=0&h=993f656279596178c06367e48071ee4b
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",50  Aimi Yoshikawa _ Melons and Cameltoe
+https://hls-hw.xvideos-cdn.com/videos/hls/fc/da/bf/fcdabf42d3b3d3fe9f57a7f0f90d9ad5/hls-720p.m3u8?e=1654073167&l=0&h=db440e837a95cf6e0311df734b4bfe5e
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",51  Aimi Yoshikawa _ Pink Puncher Aimi Aimi
+https://hls-hw.xvideos-cdn.com/videos/hls/74/70/5f/74705f5cea1b250f3e34153e9b8b6620-2/hls-480p.m3u8?e=1654073207&l=0&h=a2e95256ccd9de9ec9b63209a3736fec
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",52  Aimi Yoshikawa _ Natural Big Tits in the Apartment
+https://hls-hw.xvideos-cdn.com/videos/hls/42/1d/12/421d12eb390d9cedbb677077ab33ed95/hls-720p.m3u8?e=1654073241&l=0&h=74a0485fcd2f7de982fcadbe71940e50
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",53  Aimi Yoshikawa _ Girl Big Natural Tits
+https://hls-hw.xvideos-cdn.com/videos/hls/ea/a5/29/eaa52969682cb4ed28af93a28be71c9e/hls-720p.m3u8?e=1654073271&l=0&h=e4f014a8d3b60cbd8bb8da85a1e2e79c
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",54  Aimi Yoshikawa _ Naked and Natural Big Tits
+https://hls-hw.xvideos-cdn.com/videos/hls/40/b6/93/40b693052ae60abbac170be2e2246ad7/hls-720p.m3u8?e=1654073306&l=0&h=9d505e9ef76779a4929ba2e8eb1f4b38
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",55  Aimi Yoshikawa _ Camel Toe in Shorts Latter Half
+https://hls1-l3.xvideos-cdn.com/0761db8f35a8b4af86edb8cce1b6ba509ea80f0f-1654074504/videos/hls/d2/44/88/d24488288a4011b4c43dbfb320e0a249/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",56  Aimi Yoshikawa _ Pink String Bikini
+https://hls3-l3.xvideos-cdn.com/e49514a9a0d825d305261f5fdbec34cd1121b729-1654074560/videos/hls/0c/29/fa/0c29fa63471b36222181b5eafe8d4b5d/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",57  Aimi Yoshikawa _ Camel Toe in Shorts
+https://hls-hw.xvideos-cdn.com/videos/hls/bb/12/d0/bb12d09e91b3d0808ce881ebfe35520f/hls-720p.m3u8?e=1654074593&l=0&h=87d1dff6b742a58fd9923cf598429f27
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",58  Aimi Yoshikawa _ Legs in Front of the Camera
+https://hls-hw.xvideos-cdn.com/videos/hls/57/c7/e9/57c7e9eff509aebb08373891a7d01fb7/hls-720p.m3u8?e=1654074642&l=0&h=ad4a2b6e4eb7c4cd78ea20a932cda60d
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aimi_Yoshikawa,_2017_(cropped).jpg/220px-Aimi_Yoshikawa,_2017_(cropped).jpg",59  Aimi Yoshikawa _ Downblouse during Cleaning
+https://hls1-l3.xvideos-cdn.com/7206838ac832ab4b98de18119d782481e9b6221c-1654074720/videos/hls/5b/4d/a7/5b4da77add2e7eff777a36766d2b4313/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",60 Mom Lover 3 (2019) Korean Sex
+https://hls2-l3.xvideos-cdn.com/64c61e2cece26b1318ca569480b946cc40e014c9-1654073760/videos/hls/6b/d6/64/6bd6640d1d5c5a1d499fc4b604a56732/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",61
+https://hls-hw.xvideos-cdn.com/videos/hls/ce/c6/4f/cec64fca8d3f9655a3d347f2773a3dd4-1/hls-1080p-cb9fd.m3u8?e=1654073970&l=0&h=c4c2e326a5f999c8ecab331a62841805
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",62
+https://hls1-l3.xvideos-cdn.com/1786567e1297064870f89ef40fc7816ce233e820-1654074840/videos/hls/23/85/f2/2385f212625ad3e5b1a08aecf07c4786-1/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",63
+https://hls-hw.xvideos-cdn.com/videos/hls/24/ee/ee/24eeeef51ac30720f533d5305550108b/hls-360p.m3u8?e=1654074913&l=0&h=69954122a62cad4af35e3b0264b8588e
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",64 Wuuuu
+https://hls-hw.xvideos-cdn.com/videos/hls/d6/6b/32/d66b3231b3478208cc9a5d178550c0fa/hls-360p.m3u8?e=1654072738&l=0&h=a61402c9e83e98124f63a5eaa2b2a165
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",65 Gia Đình Ngoại Tình
+https://hls-hw.xvideos-cdn.com/videos/hls/e5/eb/e1/e5ebe1e575d80031f12e2707aa830ed7-1/hls-720p.m3u8?e=1654072651&l=0&h=20e7cdff034c659233f12703c3be429d
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",66 Hong Kong  Poor Ghost Sex Scene
+https://hls-hw.xvideos-cdn.com/videos/hls/de/da/0c/deda0cb7f3e6ece74558db8006df1094/hls-360p.m3u8?e=1654072335&l=0&h=c8b4d8eb06802bdce7a7f528062f2621
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",67 Female Ninjas – Magic Chronicles 4
+https://hls-hw.xvideos-cdn.com/videos/hls/7a/af/44/7aaf4469dd01b61d564fec0e8d35ca06/hls-360p.m3u8?e=1654074611&l=0&h=46c869c4fb1f82ab55113e2b9701f27a
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",68 Her to have Sex Fingering
+https://hls-hw.xvideos-cdn.com/videos/hls/e6/c4/a8/e6c4a8582171e05d5ff33dc1122a1564/hls-480p.m3u8?e=1654073114&l=0&h=e6132d8b3338d213811aaaf00fd09e99
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",69 My friend's wife
+https://hls-hw.xvideos-cdn.com/videos/hls/b2/68/8d/b2688d147a055a36ec5df4693ba121e6/hls-480p.m3u8?e=1654073299&l=0&h=3c4d0313e1fefc43e6aaa75391ab4730
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",70 Khỏa Thân - Nude
+https://hls-hw.xvideos-cdn.com/videos/hls/dc/85/cb/dc85cbfe5bafa64bee2498dcc2d73034-1/hls-720p.m3u8?e=1654074577&l=0&h=f87d0f3d0baca1b359f27a18be468163
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",71
+https://hls-hw.xvideos-cdn.com/videos/hls/a0/01/7a/a0017aeebdb6a583f64372abaedfe036-1/hls-360p.m3u8?e=1654075512&l=0&h=f704ec87d83a16f3640a40e7b8dd6b9e
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",72 Pervs On Patrol
+https://hls-hw.xvideos-cdn.com/videos/hls/f5/04/33/f5043353b532e241fc5d8545ccbc742a/hls-720p.m3u8?e=1654075629&l=0&h=018cd59e4d2e0f17b48a7a396148a993
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",73 Pervs On Patrol
+https://hls-hw.xvideos-cdn.com/videos/hls/75/51/32/7551326c9771ab3ee6ea4db446538e43/hls-1080p-861fd.m3u8?e=1654075315&l=0&h=c828417c256313e7d05da8514c560ff6
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",74
+https://hls2-l3.xvideos-cdn.com/68b2aec6dd2cef26862e2d4357ec39e252a878bb-1654075361/videos/hls/f3/f1/40/f3f140b12ede59257882dde8557b8de0/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",75
+https://hls1-l3.xvideos-cdn.com/629a810cfe0e8aff4188c01637650715e5b90de3-1654075163/videos/hls/b6/ff/0e/b6ff0e22814cd7dcacca160191f9daf4/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",76
+https://hls-hw.xvideos-cdn.com/videos/hls/1d/a9/fc/1da9fcfd0e5c264ef33e1cbc7c35c09d/hls-720p.m3u8?e=1654075868&l=0&h=f39b669f814c25c8ed0f0015752a8900
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",77
+https://hls-hw.xvideos-cdn.com/videos/hls/f5/04/33/f5043353b532e241fc5d8545ccbc742a/hls-720p.m3u8?e=1654075629&l=0&h=018cd59e4d2e0f17b48a7a396148a993
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",78
+https://hls-hw.xvideos-cdn.com/videos/hls/ca/6a/9b/ca6a9b39233a3bd0a86483ab441135d6/hls-720p.m3u8?e=1654075931&l=0&h=c19af3d6a569463fc9ef50412ca75b64
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",79
+https://hls-hw.xvideos-cdn.com/videos/hls/e5/41/73/e54173c2989a2b4964ee25aca11b06a8/hls-720p.m3u8?e=1654075958&l=0&h=2a596f51d827c13587627942f53176f5
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",80
+https://hls3-l3.xvideos-cdn.com/73172414f20b1bbb57e418808361a6159038d90f-1654075991/videos/hls/70/23/b4/7023b40dc60cae772b4c37998f966e60/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",81
+https://hls-hw.xvideos-cdn.com/videos/hls/6a/fa/c1/6afac1ec1265269f717172468f431f21/hls-720p.m3u8?e=1654075989&l=0&h=5430228033cb32e687c72be4d9af71ad
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",82
+https://hls-hw.xvideos-cdn.com/videos/hls/10/56/89/10568920e8f984dd8060f49fe511c8d1/hls-720p.m3u8?e=1654075984&l=0&h=e50c04fcb171cb53c0e1bd3927e020df
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",83
+https://hls-hw.xvideos-cdn.com/videos/hls/f0/c0/b6/f0c0b6662c14481191ffe7ebc2a2dc88/hls-1080p-61b01.m3u8?e=1654076096&l=0&h=9d1ff7bd7d8369a398b3140c6c1ef2b0
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",84
+https://hls3-l3.xvideos-cdn.com/bbb015c60c36ee26cd6a3cbe823655aefd864833-1654076103/videos/hls/ea/de/48/eade48304f112ab99d0157aa2d557530/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",85
+https://hls-hw.xvideos-cdn.com/videos/hls/a2/bd/6f/a2bd6f856b7ed486d98fc5a3830665b4/hls-1080p-ce71a.m3u8?e=1654076103&l=0&h=c212e68e0e2c19126379c4bb930c17a2
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",86
+https://hls-hw.xvideos-cdn.com/videos/hls/ec/d4/ac/ecd4ac432b47cdf991327dcda2c03ff4/hls-720p.m3u8?e=1654076148&l=0&h=cc7a3f5f56cdc775697b25181830cf59
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",87
+https://hls-hw.xvideos-cdn.com/videos/hls/71/a2/f3/71a2f3becac0721d005470232f4f0950/hls-720p.m3u8?e=1654076153&l=0&h=b06c7804d36f3797b98b4372617c8240
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",88
+https://hls-hw.xvideos-cdn.com/videos/hls/85/a7/21/85a721ff7ac3372dd39b9b992eb732ae/hls-720p.m3u8?e=1654076157&l=0&h=2c395739a75360a8b33ac68e10917de5
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",89
+https://hls-hw.xvideos-cdn.com/videos/hls/38/42/a0/3842a0706d0680add7564f0bdfc13fb7/hls-720p.m3u8?e=1654076169&l=0&h=af111f4a0326d6380c8fd5eeaf3aabbb
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",90
+https://hls-hw.xvideos-cdn.com/videos/hls/82/c5/62/82c5620806b577c9b2da09cb6f23bf99/hls-720p.m3u8?e=1654076265&l=0&h=6adb3c490b85b9afb9447465393a1287
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",91
+https://hls-hw.xvideos-cdn.com/videos/hls/fb/b6/b7/fbb6b79e10eb814f1d9aaf8fbc7624ef/hls-720p.m3u8?e=1654076269&l=0&h=6b354c56466bb478fbab80fd625bd859
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",92
+https://hls-hw.xvideos-cdn.com/videos/hls/f0/19/d0/f019d09f7b8cb27ae2a042a61a5065aa/hls-720p.m3u8?e=1654076268&l=0&h=366ea99f2c05ef8f07f752e547dfae48
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",93
+https://hls-hw.xvideos-cdn.com/videos/hls/6f/81/a8/6f81a80feae0f49fd4c8529e11119d77/hls-360p.m3u8?e=1654076270&l=0&h=48049dd7d4d4b5baf7321f60d8f3a84d
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",94
+https://hls-hw.xvideos-cdn.com/videos/hls/a6/e7/d4/a6e7d4e964da69146a80479ca2c72471/hls-1080p-a05b0.m3u8?e=1654076276&l=0&h=f183384c13cdf8076be9e53a073608f8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",95
+https://hls-hw.xvideos-cdn.com/videos/hls/2b/a9/cb/2ba9cbafc8092a8574a3de826828f115/hls-360p.m3u8?e=1654076282&l=0&h=26708bc6c1aa502dcaeff153b25e3e4f
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",96
+https://hls1-l3.xvideos-cdn.com/47be63237e148447b286caff2d668c31c4ee5c7d-1654076352/videos/hls/99/94/a0/9994a0b74bbc8f538f196253a158209a/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",97
+https://hls-hw.xvideos-cdn.com/videos/hls/87/94/88/8794886bbce30417e3951813e6c88250/hls-720p.m3u8?e=1654076357&l=0&h=57155793d35e244c2439dbd7f69467e8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",98
+https://hls-hw.xvideos-cdn.com/videos/hls/b1/a8/21/b1a8212dfdc8053b18819e5d3bba3bcb/hls-720p.m3u8?e=1654076387&l=0&h=608e23bdc2bd0130d018e3f9763edd01
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",99
+https://hls-hw.xvideos-cdn.com/videos/hls/ff/6e/91/ff6e91665c0c00cc0d3a25bf182e1b50/hls-720p.m3u8?e=1654076392&l=0&h=2beff9fd04c2f0f4f24d15f9c7152261
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",100
+https://hls-hw.xvideos-cdn.com/videos/hls/53/08/d3/5308d33daa8f819c9946cc7266b9a0fd/hls-720p.m3u8?e=1654076449&l=0&h=80e4c4b170b8c3be9eaee30871e5c790
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",101
+https://hls-hw.xvideos-cdn.com/videos/hls/d8/3d/89/d83d890df0f9c2003f39fd4b6dc83d88-2/hls-360p.m3u8?e=1654076585&l=0&h=e988874aff464520487ee0216679a2fe
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",102
+https://hls-hw.xvideos-cdn.com/videos/hls/d0/0d/ed/d00ded501449c58488f828b58a1117f9/hls-720p.m3u8?e=1654075697&l=0&h=91a2a08cb68094920b1c848e3ec27689
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",103
+https://hls-hw.xvideos-cdn.com/videos/hls/e4/3a/bc/e43abc267495e586c3d79ae4b41cb4f9/hls-1080p-b2da3.m3u8?e=1654076718&l=0&h=0f725658e870628d2bfa61bf82e8fc47
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",104
+https://hls-hw.xvideos-cdn.com/videos/hls/32/dc/44/32dc4479cf5a78ae337dca50d08a1c2b/hls-1080p.m3u8?e=1654075549&l=0&h=065e037519fcd4fab1e161e19b329289
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",105
+https://hls-hw.xvideos-cdn.com/videos/hls/6d/1d/24/6d1d24b8def54e4f40e5f5135ffa2bbc/hls-1080p-b8f74.m3u8?e=1654076775&l=0&h=da9688a3b7c6370829cb72e476347f7a
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",106
+https://hls-hw.xvideos-cdn.com/videos/hls/1e/7a/9e/1e7a9ea3627503803f4642af1b7e0f83-1/hls-720p.m3u8?e=1654076266&l=0&h=7525f60cac670b22fb5018d1805218c5
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",107
+https://hls-hw.xvideos-cdn.com/videos_new/hls/79/e2/69/79e2695a1814edd674a56e5aeef6f8df/hls-720p-e72ad.m3u8?e=1654076820&l=0&h=eaeb1c3960a23d419908e76c10af496b
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",108
+https://hls4-l3.xvideos-cdn.com/743659abf49e1aa452966ea492b8bbcdd28b2fd8-1654076828/videos/hls/f9/0a/b2/f90ab2169d567412cead7542a4491df3-1/hls-720p.m3u8
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",109
+https://hls-hw.xvideos-cdn.com/videos/hls/c3/96/c0/c396c0c9f1c1fd26179b272922396cd1-1/hls-720p.m3u8?e=1654076832&l=0&h=5998ac006527aa0d518354ad40654783
+#EXTINF:-1 group-title="SEXY CLIP" tvg-logo="",110
+https://hls4-l3.xvideos-cdn.com/f0b257b6e47cc8247e13bcafa439206902914b81-1654076839/videos/hls/2c/3a/83/2c3a837be139ee4ac8f7e87a4cb1a08b/hls-720p.m3u8
+# LIVE xhamster
+
+#EXTINF:-1 group-title="LIVE",_Angel_XxX
+https://b-hls-16.strpst.com/hls/67484142/67484142.m3u8
+#EXTINF:-1 group-title="LIVE",_ANAIS_BAB3
+https://b-hls-16.doppiocdn.com/hls/64018376/64018376.m3u8
+#EXTINF:-1 group-title="LIVE",Amelie_Di
+https://b-hls-20.strpst.com/hls/72083332/72083332.m3u8
+#EXTINF:-1 group-title="LIVE",Alika_2k1
+https://b-hls-24.strpst.com/hls/60573488/60573488.m3u8
+
+#EXTINF:-1 group-title="LIVE",Booty_4_you
+https://b-hls-20.doppiocdn.com/hls/50815934/50815934.m3u8
+#EXTINF:-1 group-title="LIVE",_BONG_
+https://b-hls-16.doppiocdn.com/hls/67438174/67438174.m3u8
+
+#EXTINF:-1 group-title="LIVE",_CandySweetie_
+https://b-hls-23.strpst.com/hls/67627491/67627491.m3u8
+#EXTINF:-1 group-title="LIVE",Candy_suzy
+https://b-hls-21.doppiocdn.com/hls/74763759/74763759.m3u8
+#EXTINF:-1 group-title="LIVE",CN_YangMi
+https://b-hls-10.strpst.com/hls/65577438/65577438.m3u8
+
+#EXTINF:-1 group-title="LIVE",DEVILL_LL
+https://b-hls-19.strpst.com/hls/72019332/72019332.m3u8
+#EXTINF:-1 group-title="LIVE",DILYSSUGAR
+https://b-hls-16.doppiocdn.com/hls/79632236/79632236.m3u8
+
+#EXTINF:-1 group-title="LIVE",EMMA_212
+https://b-hls-08.doppiocdn.com/hls/75108058/75108058.m3u8
+
+#EXTINF:-1 group-title="LIVE",FUNNYHAPPY
+https://b-hls-19.doppiocdn.com/hls/75411559/75411559.m3u8
+
+#EXTINF:-1 group-title="LIVE",Gia_Han
+https://b-hls-19.doppiocdn.com/hls/70524061/70524061.m3u8
+#EXTINF:-1 group-title="LIVE",Ginger_bb
+https://b-hls-08.strpst.com/hls/72109803/72109803.m3u8
+
+#EXTINF:-1 group-title="LIVE",H_A_N_A
+https://b-hls-06.strpst.com/hls/72224545/72224545.m3u8
+#EXTINF:-1 group-title="LIVE",Hanako_love
+https://b-hls-07.strpst.com/hls/31014737/31014737.m3u8
+#EXTINF:-1 group-title="LIVE",HAERI-BABY
+https://b-hls-16.doppiocdn.com/hls/79076402/79076402.m3u8
+#EXTINF:-1 group-title="LIVE",HINA_ROSE
+https://b-hls-21.doppiocdn.com/hls/76881459/76881459.m3u8
+
+#EXTINF:-1 group-title="LIVE",imyour_Wet
+https://b-hls-07.strpst.com/hls/68365277/68365277.m3u8
+#EXTINF:-1 group-title="LIVE",InBoYoeng_
+https://b-hls-24.strpst.com/hls/72081701/72081701.m3u8
+#EXTINF:-1 group-title="LIVE",IRENE-ZHAO
+https://b-hls-01.doppiocdn.com/hls/76878098/76878098.m3u8
+
+#EXTINF:-1 group-title="LIVE",JENA2001
+https://b-hls-06.doppiocdn.com/hls/79608848/79608848.m3u8
+#EXTINF:-1 group-title="LIVE",jessi-li
+https://b-hls-20.doppiocdn.com/hls/63876249/63876249_720p.m3u8
+#EXTINF:-1 group-title="LIVE",JINYIYI
+https://b-hls-16.doppiocdn.com/hls/78737779/78737779.m3u8
+#EXTINF:-1 group-title="LIVE",Julia_sweett
+https://b-hls-17.strpst.com/hls/67194607/67194607.m3u8
+
+#EXTINF:-1 group-title="LIVE",Kajal_Aggar
+https://b-hls-23.strpst.com/hls/64748996/64748996.m3u8
+#EXTINF:-1 group-title="LIVE",kim_hoa
+https://b-hls-04.strpst.com/hls/28844648/28844648_480p.m3u8
+
+
+#EXTINF:-1 group-title="LIVE",luckilly190
+https://b-hls-04.strpst.com/hls/64151539/64151539.m3u8
+#EXTINF:-1 group-title="LIVE",Leng_Rin
+https://b-hls-17.strpst.com/hls/58663247/58663247.m3u8
+#EXTINF:-1 group-title="LIVE"V,Lucia_Sweetie
+https://b-hls-19.strpst.com/hls/72076460/72076460.m3u8
+
+#EXTINF:-1 group-title="LIVE",_marian_rivera
+https://b-hls-24.doppiocdn.com/hls/63077091/63077091.m3u8
+#EXTINF:-1 group-title="LIVE",Mary_2k_
+https://b-hls-16.strpst.com/hls/60825636/60825636.m3u8
+#EXTINF:-1 group-title="LIVE",Mary2k_
+https://b-hls-10.doppiocdn.com/hls/79761627/79761627.m3u8
+#EXTINF:-1 group-title="LIVE",MINH_TRANG
+https://b-hls-24.doppiocdn.com/hls/79670394/79670394.m3u8
+#EXTINF:-1 group-title="LIVE",My_lucky_
+https://b-hls-24.strpst.com/hls/66594664/66594664.m3u8
+#EXTINF:-1 group-title="LIVE",Morela_69
+https://b-hls-06.doppiocdn.com/hls/54957621/54957621.m3u8
+
+#EXTINF:-1 group-title="LIVE",_Na_
+https://b-hls-06.doppiocdn.com/hls/73820323/73820323.m3u8
+#EXTINF:-1 group-title="LIVE",_NaNAMEI
+https://b-hls-07.doppiocdn.com/hls/72869508/72869508.m3u8
+
+#EXTINF:-1 group-title="LIVE",Palvin_Mia
+https://b-hls-03.strpst.com/hls/72198402/72198402.m3u8
+#EXTINF:-1 group-title="LIVE",PHOENIX_JIMJIN
+https://b-hls-03.doppiocdn.com/hls/72247221/72247221_720p.m3u8
+
+#EXTINF:-1 group-title="LIVE",SKY_21
+https://b-hls-06.doppiocdn.com/hls/66718214/66718214.m3u8
+#EXTINF:-1 group-title="LIVE",Suzie-X
+https://b-hls-20.strpst.com/hls/68535533/68535533.m3u8
+#EXTINF:-1 group-title="LIVE",SmileGirl69
+https://b-hls-10.doppiocdn.com/hls/62710043/62710043.m3u8
+#EXTINF:-1 group-title="LIVE",Sofia_hongkong
+https://b-hls-04.strpst.com/hls/47687021/47687021.m3u8
+#EXTINF:-1 group-title="LIVE",SoYoong
+https://b-hls-06.doppiocdn.com/hls/74039478/74039478.m3u8
+#EXTINF:-1 group-title="LIVE",SumiNansai22
+https://b-hls-03.doppiocdn.com/hls/55021087/55021087.m3u8
+#EXTINF:-1 group-title="LIVE",Sunnyflowerr
+https://b-hls-19.strpst.com/hls/66346691/66346691.m3u8
+#EXTINF:-1 group-title="LIVE",Sunny_RYY
+https://b-hls-21.doppiocdn.com/hls/78718534/78718534.m3u8
+#EXTINF:-1 group-title="LIVE",SunSet_Girl
+https://b-hls-16.strpst.com/hls/72636013/72636013.m3u8
+#EXTINF:-1 group-title="LIVE",Sexy_Rossie
+https://b-hls-01.strpst.com/hls/67712960/67712960.m3u8
+#EXTINF:-1 group-title="LIVE",Saixixi_
+https://b-hls-09.strpst.com/hls/72339490/72339490.m3u8
+#EXTINF:-1 group-title="LIVE",selenasky_
+https://b-hls-20.strpst.com/hls/67696341/67696341.m3u8
+#EXTINF:-1 group-title="LIVE",Sexy_Princess69
+https://b-hls-08.doppiocdn.com/hls/67839600/67839600.m3u8
+#EXTINF:-1 group-title="LIVE",SweetAlexa19
+https://b-hls-19.strpst.com/hls/72377707/72377707.m3u8
+#EXTINF:-1 group-title="LIVE",_SwanClumsy_
+https://b-hls-01.strpst.com/hls/67621423/67621423.m3u8
+#EXTINF:-1 group-title="LIVE",Selena_8910
+https://b-hls-19.strpst.com/hls/58214468/58214468.m3u8
+
+#EXTINF:-1 group-title="LIVE",ROSE_4_U_
+https://b-hls-20.doppiocdn.com/hls/79751978/79751978.m3u8
+#EXTINF:-1 group-title="LIVE",ROSABELLA_LUCKY
+https://b-hls-23.doppiocdn.com/hls/78604162/78604162.m3u8
+
+#EXTINF:-1 group-title="LIVE",QUEEN_ROSE21
+https://b-hls-06.doppiocdn.com/hls/78273738/78273738.m3u8
+
+#EXTINF:-1 group-title="LIVE",thanhthanh82
+https://b-hls-19.strpst.com/hls/69675237/69675237.m3u8
+
+#EXTINF:-1 group-title="LIVE",UNA_BABY
+https://b-hls-17.doppiocdn.com/hls/74688132/74688132.m3u8
+
+#EXTINF:-1 group-title="LIVE",_Verra_
+https://b-hls-25.strpst.com/hls/71473058/71473058.m3u8
+#EXTINF:-1 group-title="LIVE",VI_VY_
+https://b-hls-08.doppiocdn.com/hls/79500040/79500040_720p.m3u8
+
+#EXTINF:-1 group-title="LIVE",YoungKitty_
+https://b-hls-05.doppiocdn.com/hls/69806824/69806824.m3u8
+#EXTINF:-1 group-title="LIVE",Yuber_Dami1
+https://b-hls-16.doppiocdn.com/hls/74548641/74548641.m3u8
+
+#EXTINF:-1 group-title="LIVE",winona__
+https://b-hls-17.strpst.com/hls/66786361/66786361_160p.m3u8
