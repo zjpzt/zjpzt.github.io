@@ -1234,4 +1234,6 @@ http://209.141.56.65/litvts.php?id=4gtv-4gtv040
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 #EXTINF:-1 ,中天新闻
 https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+#EXTINF:-1 ,翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
