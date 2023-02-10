@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
+https://live.astradamy.com/tvbfc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
