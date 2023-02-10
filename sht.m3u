@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 https://live.astradamy.com/tvbfc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP SURIA
