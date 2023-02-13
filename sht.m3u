@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
-http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_5.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676320345/ei/-EnqY7jkOZra2_gPn9aNuAI/ip/2600%3A3c04%3A0%3A0%3Af03c%3A93ff%3Afe2a%3Afc7e/id/86B5PTn1890.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAORH2ivIJMJHPGcE0CHW4HrpUfVypfNexIDQPf-AyM-5AiBg6OMy3Ys8ZfiyOkb0_siC4yLPNVGc3Vge5C31ieG4yg%3D%3D/file/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2财经 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
