@@ -5,7 +5,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:ipt
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 https://live.astradamy.com/tvbfc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
-SqAcl95AR4eblNAd4jWgUlnNSFsNkkXig%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676320871/ei/B0zqY8b7EePpx_APwvCA2AU/ip/129.152.5.236/id/QTz6avPD4Ns.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgE-hdEvP6MSdkFi80pDRNB1WD95ZoX7nM-H3p4DGmu4QCIApYFn0lfiXPP40jTjCXBdvCRRbDBHlO1b5HSKtPvcdR/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676320871/ei/B0zqY8b7EePpx_APwvCA2AU/ip/129.152.5.236/id/QTz6avPD4Ns.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgE-hdEvP6MSdkFi80pDRNB1WD95ZoX7nM-H3p4DGmu4QCIApYFn0lfiXPP40jTjCXBdvCRRbDBHlO1b5HSKtPvcdR/file/index.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 8
