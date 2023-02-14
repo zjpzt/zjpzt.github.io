@@ -49,10 +49,10 @@ http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
-http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+https://tvplay.sxyssj.com/live/CZliveCCTV3.m3u8?txSecret=5df90daa47cb8826f66baa520bcf330d&txTime=63ec06a7
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
-http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8
+https://tvplay.sxyssj.com/live/CZlivetimeCCTV10.m3u8?txSecret=1ebda37481bb1eae728dbd2c25b1ef3c&txTime=63ec0702
