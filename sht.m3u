@@ -42,7 +42,13 @@ http://cdn.hklive.tv/xxxx/81/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676399683/ei/43_rY7__CqmD1d8PwdO7GA/ip/2400%3A8902%3A0%3A0%3Af03c%3A93ff%3Afe2a%3Afc4a/id/z_fY1pj1VBw.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKykINdEEeZKek-C07wuDGDRoqD7nt6b6CHZB9gjN0m6AiEAqYcuA4VSiOYwEd6nLSbcD4kpUmTBNlgeuMXN0UbI4A0%3D/file/index.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
-#EXTINF:-1,CCTV-2
-http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
+http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
+http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
+http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
