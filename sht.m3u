@@ -44,3 +44,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676399683/ei/4
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1,CCTV-2
 http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
