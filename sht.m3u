@@ -5,7 +5,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:ipt
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 https://live.astradamy.com/tvbfc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
-http://117.169.120.142:8080/live/cctv-2/1.m3u8
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-2/1.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=ddfed93d0e182026768c739b608a3255&txTime=63eb7fde
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 8
