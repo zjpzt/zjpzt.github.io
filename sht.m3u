@@ -7,7 +7,7 @@ https://live.astradamy.com/tvbfc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 http://117.169.120.142:8080/live/cctv-2/1.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
-https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=61a25e19f984fb74dfc906d735290b24&txTime=63eb176d
+https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=ddfed93d0e182026768c739b608a3255&txTime=63eb7fde
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_5.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL U
