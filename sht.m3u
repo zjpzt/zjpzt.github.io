@@ -43,4 +43,4 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676399683/ei/4
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=005301FF001589101611549359B94488&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=3529791579529328057&AuthInfo=2TOfGIahP4HrGWrHbpJXVG%2BEERpEQIU%2FdtpJfuYgRAZD6434P427oxBuLbFRCJn4JFqerLYeYbaWyhUzdTsyRsJkPPbC14Prjj67uIG3APHUBp7pkUo1m6jlajTP1QwT
 #EXTINF:-1,CCTV-2
-http://117.148.129.9/PLTV/88888888/224/3221231678/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
