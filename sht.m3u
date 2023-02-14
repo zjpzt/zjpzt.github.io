@@ -34,13 +34,13 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Ddongfang5g-v4-live.bestvcdn.com.cnD/_L1KW000Np5_key2213CF400A1D8D7546E6B9F3828566E984D732E14C629E1768D2E043B45BFFD846D79B2CF966DCA2515E6640F90058C8DF077F7569E7F3B2176DC12D4681B1E209EA66680A3AC2B2775024B4E6E0FB8C96263B4AF6996E7EF53CEE43CF0F5257C7014AE3B45F03D6FCB43C4E9F2FDD43_/live/dycjhd/live.m3u8?d=3&_cp=1&se=guowang5g&ct=4
+http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&authCode=3a&stbId=005301FF00158910000000212621B272&version=1.0&owaccmark=5000000010000027146&owchid=bestzb&owsid=2047321579530436324&AuthInfo=2TOfGIahP4HrGWrHbpJXVGQxu5HMK%2BIheH%2BppAJUFQfPt3njBIzWc%2Fam35vTsnvW%2Bh72VHwN1p1HFLVpAXsbYI0I2J%2FhJvUENkmrKWvJBWHflOM1WROOndOSHiRR8ilK
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 http://r.jdshipin.com/62WM7
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676399683/ei/43_rY7__CqmD1d8PwdO7GA/ip/2400%3A8902%3A0%3A0%3Af03c%3A93ff%3Afe2a%3Afc4a/id/z_fY1pj1VBw.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKykINdEEeZKek-C07wuDGDRoqD7nt6b6CHZB9gjN0m6AiEAqYcuA4VSiOYwEd6nLSbcD4kpUmTBNlgeuMXN0UbI4A0%3D/file/index.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
-https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=ddfed93d0e182026768c739b608a3255&txTime=63eb7fde
+http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6789517052815334336/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=005301FF001589101611549359B94488&version=1.0&owaccmark=6789517052815334336&owchid=bestzb&owsid=3529791579529328057&AuthInfo=2TOfGIahP4HrGWrHbpJXVG%2BEERpEQIU%2FdtpJfuYgRAZD6434P427oxBuLbFRCJn4JFqerLYeYbaWyhUzdTsyRsJkPPbC14Prjj67uIG3APHUBp7pkUo1m6jlajTP1QwT
 #EXTINF:-1,CCTV-2
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
