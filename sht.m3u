@@ -5,7 +5,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:ipt
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 https://live.astradamy.com/tvbfc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
-https://cctvwbcdtxy.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv2_1_td.m3u8
+https://cctvwbcdtxy.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv2_1_hd.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676324304/ei/cFnqY_nLIJSM8QO-n5aIDw/ip/2400%3A8901%3A0%3A0%3Af03c%3A93ff%3Afe2b%3A5570/id/J3WdIL4X2VM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/sg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZx-_QrEDDOh27L1mtYTyGIbNoVCB3axVOVXGs7jL4FACIBl82ke4uozR9rX8itq0C3xxZdqsLJuruwzXOtL0Mi7g/file/index.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 8
