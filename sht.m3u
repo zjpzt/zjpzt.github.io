@@ -49,7 +49,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Ddongfang5g-v4-live.bestvcdn.com.cnD/_qJ4R000cYB_key2213CF400A1D8D7546E6B9F3828566E984D732E14C629E1768D2E043B45BFFD802DD453DE619BA07CDF680F852D409C7C08FAC22BC26ACEEE52BA22FA55F581175DB123675CB5CD1570B2F4A969518FD4CA03868FE2F169FA59AAAF8C1757BD6A648B03A70A862E187BEF7F3C51B49E6_/live/dycjhd/4000000/d3.m3u8?bitrate=4000000&code=dycjhd&d=3
+https://www.yicai.com/api/dycj/liveIndex.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 http://cdn.hklive.tv/xxxx/81/index.m3u8
