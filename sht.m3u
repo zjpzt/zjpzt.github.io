@@ -49,14 +49,14 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
-https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=adc874a3dc8932b14aef6c1f1b14b9ff&txTime=646d5c83
+http://bst.jilu8.cn/dycjhd/4000000/mnf.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 http://r.jdshipin.com/62WM7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+http://bst.jilu8.cn/ylpdhd/4000000/mnf.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 http://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=e7e353319d8900f0c90c36bdec5b6e10&txTime=63f4fa70&se=kankan&ct=2&_mode=1&_cp=1&_fk=202E4D6F8AC213240DBF9C28A0E63B4C1E376D2E7490057C41328B049D4CBF35&ts=1676992076&rand=9dbb8c0bd2d0f46e5e1315f6602ef2cd
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
