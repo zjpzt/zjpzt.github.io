@@ -56,7 +56,7 @@ http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
 http://r.jdshipin.com/62WM7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
-http://bst.jilu8.cn/ylpdhd/4000000/mnf.m3u8
+https://ushls.ballbar.net/ott_I-J_h264/playlist.m3u8g?t=1685493154&token=b13a96b21c42848ae008539ed9e8d2d1
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 http://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=e7e353319d8900f0c90c36bdec5b6e10&txTime=63f4fa70&se=kankan&ct=2&_mode=1&_cp=1&_fk=202E4D6F8AC213240DBF9C28A0E63B4C1E376D2E7490057C41328B049D4CBF35&ts=1676992076&rand=9dbb8c0bd2d0f46e5e1315f6602ef2cd
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
