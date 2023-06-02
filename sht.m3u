@@ -51,12 +51,12 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 https://dispatch.ulivetv.net/v/live/cgxakkgv5bk0.m3u8?stream_id=cgxakkgv5bk0&timestamp=1685664466&rand=TugkyR1X6w&uuid=9b647b3816b2a66a&from=web&sign=ded24aa1199d03a848146794d3216d9c
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVBno Jade (翡翠台) (720p)
 http://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB1 Jade (翡翠台) (720p)
 http://r.jdshipin.com/62WM7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",viutv Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1685663734&rand=0ccG19dzKo&uuid=9b647b3816b2a66a&from=web&sign=e624a3db7916a5f731579db6213c2d78
+https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1685665315&rand=NfXupgnqHW&uuid=9b647b3816b2a66a&from=web&sign=309344d612e2aae351a84785d1426e6e
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",j2 Jade (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1685663897&rand=cHVyhu1HAG&uuid=9b647b3816b2a66a&from=web&sign=658eaa1e99b0295b7bbc9fe19140622d
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",now Jade (翡翠台) (720p)
