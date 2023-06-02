@@ -66,7 +66,7 @@ https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8?stream_id=m3u8&timestamp=
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/cgwvmejnjcg0.m3u8?stream_id=cgwvmejnjcg0&timestamp=1685664207&rand=sy86fK7f82&uuid=9b647b3816b2a66a&from=web&sign=72652aa2fe7e85cef3c9f6a64d3ad5e7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东森新闻 (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/cl7c5f64zg74.m3u8?stream_id=cl7c5f64zg74&timestamp=1685664313&rand=vx1vOYwAww&uuid=9b647b3816b2a66a&from=web&sign=e6a975b724498a9fd82dfc0e4f7d95ae
+https://dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&timestamp=1685664990&rand=ddrbsKeYIg&uuid=9b647b3816b2a66a&from=web&sign=a1dbb136e96713c6b1a64110a994ec7e
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",tvbshd (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&timestamp=1685664365&rand=XX5WmByHE1&uuid=9b647b3816b2a66a&from=web&sign=b694e81ef424da5146210633d9e15467
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",8tv (翡翠台) (720p)
