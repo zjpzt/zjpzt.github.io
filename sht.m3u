@@ -74,7 +74,7 @@ https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&tim
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",cnn (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&timestamp=1685664653&rand=dpb6nFzR9f&uuid=9b647b3816b2a66a&from=web&sign=98e4b41117ecfbf7d1be127d65192f62
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1685663157&rand=XJoe6gdSiC&uuid=9b647b3816b2a66a&from=web&sign=ec1a31964aa2c05c0bc699e2ef9fc96d
+https://cdn142.akamai-content-network.com/bcdn_token=ej3jzZGlPHN1MGvi58xn49KpVcW9wLzt550qCd4d6HQ&expires=1686083234&token_path=%2F105456d0-493f-48c6-ad03-70faf949602a%2F/105456d0-493f-48c6-ad03-70faf949602a/playlist.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 http://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=e7e353319d8900f0c90c36bdec5b6e10&txTime=63f4fa70&se=kankan&ct=2&_mode=1&_cp=1&_fk=202E4D6F8AC213240DBF9C28A0E63B4C1E376D2E7490057C41328B049D4CBF35&ts=1676992076&rand=9dbb8c0bd2d0f46e5e1315f6602ef2cd
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
