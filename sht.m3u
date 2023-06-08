@@ -79,15 +79,15 @@ https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&tim
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",cnn (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&timestamp=1686218821&rand=j8nd4ZPZ5Q&uuid=9b647b3816b2a66a&from=web&sign=c923cfdb481512d283274dc975c729e7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&timestamp=1686218821&rand=j8nd4ZPZ5Q&uuid=9b647b3816b2a66a&from=web&sign=c923cfdb481512d283274dc975c729e7
+https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686221103&rand=Kq4KjC6Lk8&uuid=9b647b3816b2a66a&from=web&sign=c84aa29629f44be8a81a955bde04ecbf
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 https://edge-hls.doppiocdn.com/hls/75130636/master/75130636_480p.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
-https://dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&timestamp=1686218760&rand=VLPGQTkz8G&uuid=9b647b3816b2a66a&from=web&sign=69bc1532751d44a2de10db8b8082d59e
+https://dispatch.ulivetv.net/v/live/cgxal7azq8jk.m3u8?stream_id=cgxal7azq8jk&timestamp=1686221235&rand=owzKIZw2nW&uuid=9b647b3816b2a66a&from=web&sign=3ad02b7d265d32e33f7483a89856207b
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
-https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686219230&rand=opZWbtCx2Y&uuid=9b647b3816b2a66a&from=web&sign=690b393a0f90f047482eee276af08010
+https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1686221280&rand=OBkkCHQ6hA&uuid=9b647b3816b2a66a&from=web&sign=390a757afaff01e2e1de8020de1f3679
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
