@@ -46,9 +46,10 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 https://dispatch.ulivetv.net/v/live/cgxakkgv5bk0.m3u8?stream_id=cgxakkgv5bk0&timestamp=1686219016&rand=wLdAOx1vNX&uuid=9b647b3816b2a66a&from=web&sign=331417f0424d1507335c2d7c6edadc01
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVBno Jade (翡翠台) (720p)
 http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB1 Jade (翡翠台) (720p)
@@ -76,9 +77,9 @@ https://dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&tim
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",8tv (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&timestamp=1686218912&rand=iyT6zqYQRA&uuid=9b647b3816b2a66a&from=web&sign=f49084880504330ad12697bf792d318c
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",cnn (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&timestamp=1686218760&rand=VLPGQTkz8G&uuid=9b647b3816b2a66a&from=web&sign=69bc1532751d44a2de10db8b8082d59e
+https://dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&timestamp=1686218821&rand=j8nd4ZPZ5Q&uuid=9b647b3816b2a66a&from=web&sign=c923cfdb481512d283274dc975c729e7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686219230&rand=opZWbtCx2Y&uuid=9b647b3816b2a66a&from=web&sign=690b393a0f90f047482eee276af08010
+https://dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&timestamp=1686218821&rand=j8nd4ZPZ5Q&uuid=9b647b3816b2a66a&from=web&sign=c923cfdb481512d283274dc975c729e7
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP cctv4
 https://edge-hls.doppiocdn.com/hls/75130636/master/75130636_480p.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
@@ -86,7 +87,7 @@ http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
 https://dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&timestamp=1686218760&rand=VLPGQTkz8G&uuid=9b647b3816b2a66a&from=web&sign=69bc1532751d44a2de10db8b8082d59e
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
-https://dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&timestamp=1686218821&rand=j8nd4ZPZ5Q&uuid=9b647b3816b2a66a&from=web&sign=c923cfdb481512d283274dc975c729e7
+https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686219230&rand=opZWbtCx2Y&uuid=9b647b3816b2a66a&from=web&sign=690b393a0f90f047482eee276af08010
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
