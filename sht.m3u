@@ -66,7 +66,7 @@ https://cdn1.yeslivetv.com/live/viu.m3u8?md5=lUirjzWhDF4JxJXhnnmSSA&expires=1687
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",J2 Jade (翡翠台) (720p)
 https://cdn1.yeslivetv.com/live/tvb-j2.m3u8?md5=T5GZd3J2865X9BRqGaa3WQ&expires=1687975144
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",now Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686283886&rand=wYdnGva1Mc&uuid=9b647b3816b2a66a&from=web&sign=6c2fef4090a10cfe9ed7aed2b503acfa
+https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1687958127&rand=d5b0HTmMQK&uuid=9b647b3816b2a66a&from=web&sign=88b3a7851a5079015177168c261d9314
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",毒舌 (翡翠台) (720p)
 https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8?stream_id=m3u8&timestamp=1685664091&rand=g6PlzQoG71&uuid=9b647b3816b2a66a&from=web&sign=e4eed203cca444b102f72455c9e42032
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
