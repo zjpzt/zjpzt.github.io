@@ -52,7 +52,7 @@ https://dispatch.ulivetv.net/v/live/cgxakkgv5bk0.m3u8?stream_id=cgxakkgv5bk0&tim
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",abc news(翡翠台) (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVBno Jade (翡翠台) (720p)
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-12e97cb6-d5a9-437b-bbaf-b803008bcfbf.m3u8?by=yeslivetv_com
+https://cdn1.yeslivetv.com/live/tvb-jade.m3u8?md5=ZqpZwZrOCdG_SohvtzNLtw&expires=1687974868
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB1 Jade (翡翠台) (720p)
 http://r.jdshipin.com/62WM7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",channel 8 Jade (翡翠台) (720p)
@@ -62,9 +62,9 @@ https://dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&tim
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",channel 5 Jade (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/ciw8hkwsa2tc.m3u8?stream_id=ciw8hkwsa2tc&timestamp=1686218821&rand=j8nd4ZPZ5Q&uuid=9b647b3816b2a66a&from=web&sign=c923cfdb481512d283274dc975c729e7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",viutv Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686219230&rand=opZWbtCx2Y&uuid=9b647b3816b2a66a&from=web&sign=690b393a0f90f047482eee276af08010
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",j2 Jade (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686219488&rand=4m5Bso8ype&uuid=9b647b3816b2a66a&from=web&sign=78b3edc3e3868db8e8067eda26725ed8
+https://cdn1.yeslivetv.com/live/viu.m3u8?md5=lUirjzWhDF4JxJXhnnmSSA&expires=1687974765
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",imode TV Jade (翡翠台) (720p)
+https://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",now Jade (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686283886&rand=wYdnGva1Mc&uuid=9b647b3816b2a66a&from=web&sign=6c2fef4090a10cfe9ed7aed2b503acfa
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",毒舌 (翡翠台) (720p)
@@ -72,9 +72,9 @@ https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8?stream_id=m3u8&timestamp=
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
 https://dispatchnew.ulivetv.net/v/live/cgwvmejnjcg0.m3u8?stream_id=cgwvmejnjcg0&timestamp=1686572892&rand=hlHaPiR6H5&uuid=9b647b3816b2a66a&from=web&sign=1a67d63da1eb72e640a9ba8f9e4e95ba
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东森新闻 (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&timestamp=1686219079&rand=nSa810v4vQ&uuid=9b647b3816b2a66a&from=web&sign=c9b24c27e2659e7d79dfe6a7a570091c
+https://cdn1.yeslivetv.com/live/ebcnews.m3u8?md5=3TF0uDpv21dFER46K-FHhQ&expires=1687974531
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",tvbshd (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&timestamp=1686219124&rand=2vtdY55OUl&uuid=9b647b3816b2a66a&from=web&sign=9abf2e43704075523becf807f4c1c95e
+https://tw11.yeslivetv.com/4gtv-4gtv073/index.m3u8?md5=yLpt-5LD4CLcg95T5QMlBQ&expires=1687956974
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",8tv (翡翠台) (720p)
 https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&timestamp=1686218912&rand=iyT6zqYQRA&uuid=9b647b3816b2a66a&from=web&sign=f49084880504330ad12697bf792d318c
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",cnn (翡翠台) (720p)
