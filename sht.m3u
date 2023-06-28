@@ -86,7 +86,7 @@ https://edge-hls.doppiocdn.com/hls/75130636/master/75130636_480p.m3u8
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
-https://dispatchnew.ulivetv.net/v/live/cgxal7azq8jk.m3u8?stream_id=cgxal7azq8jk&timestamp=1687957731&rand=FFgnTgTEBf&uuid=9b647b3816b2a66a&from=web&sign=2f34fd795f617744effdd8b57d5f0fa6
+https://dispatchnew.ulivetv.net/v/live/cgxal7azq8jk.m3u8?stream_id=cgxal7azq8jk&timestamp=1687958460&rand=slkpnNH8zW&uuid=9b647b3816b2a66a&from=web&sign=387e410f5dc4fdb81cb59fde53be4881
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 https://dispatchnew.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1687957854&rand=c472GHhVpl&uuid=9b647b3816b2a66a&from=web&sign=833b8b4b1fc3333cd3278d73e223d86e
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
