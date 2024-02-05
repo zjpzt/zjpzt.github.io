@@ -52,8 +52,8 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 https://dispatchnew.ulivetv.net/v/live/ckwkwro7fwe8.m3u8?stream_id=ckwkwro7fwe8&timestamp=1687957768&rand=ylZ4HACKXz&uuid=9b647b3816b2a66a&from=web&sign=76a040f303264b4eaa7ac68c4df12a13
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",abc news(翡翠台) (720p)
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",abc1 news(翡翠台) (720p)
+https://euorigin.scdn.eu.org/live/tvb_jade.m3u8?token=ohg17jkyBvOh5tRE7Q8DiA&expires=1707156794
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVBno Jade (翡翠台) (720p)
 https://cdn1.yeslivetv.com/live/tvb-jade.m3u8?md5=IoLqnVByh5iGsLHkHBVp8g&expires=1688043054
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB1 Jade (翡翠台) (720p)
