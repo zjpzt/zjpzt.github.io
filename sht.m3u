@@ -65,11 +65,11 @@ http://r.jdshipin.com/qClQf
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",channel 5 Jade (翡翠台) (720p)
 http://r.jdshipin.com/n90gt
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",viutv Jade (翡翠台) (720p)
-http://2022.stream-link.org/playlist/tvb_jade.ts
+https://s4-l1.dnvodcdn.me/edge/tchannel1/chunklist.m3u8?dnvodendtime=1707874293&dnvodhash=CeNs9OgZhFm1fhNqVVx7Qqtcp5lASdkPUfpcDtgfT2s=&dnvodCustomParameter=129333788_108.181.23.61.US_1&lb=1f0bcceaeec329f917295cc60e5f7f8a&us=1&vv=d39fd8ae13364e40dee16f5c1ce2c10b&pub=CJSmDpSmCJCqEIusCZPVLLDVCJ0uBZ4uCIuoCousCLyQiPYQcZ4SCXkScJCQ71cP71iQC9ao71eR69oQC9iOCQzOZ5aP6PYOp1aCpLXDpGsCs9ZOJOuC30rD3GpOc8vDJ4
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",J2 Jade (翡翠台) (720p)
 http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",now Jade (翡翠台) (720p)
-http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+https://s3-e1.dnvodcdn.me/ppot/_definst_/mp4:s3/live/dy-spjszzsdja-576p-022E0D319.mp4/chunklist.m3u8?dnvodendtime=1707874153&dnvodhash=BkawUXWLwqXKErDbgCVomBR91wENtbqVdxIBadoJDKs=&dnvodCustomParameter=0_108.181.23.61.US_1&lb=c67585ec6310d19225f8b6ad32088774&us=1&vv=ee8eea703ea94b4b93aead797ae67b60&pub=CJSmDpSmCJCqEIusCZPVLLDVCJ0uBZ4uCIuoCousCLyQiPYQcZ4SCXkScJCQ71cP71iQC9ao71eR69oQC9iOCQzOZ5aP6PYOp1aCpLXDpGsCs9ZOJOuC30rD3GpOc8vDJ4
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",毒舌 (翡翠台) (720p)
 https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8?stream_id=m3u8&timestamp=1685664091&rand=g6PlzQoG71&uuid=9b647b3816b2a66a&from=web&sign=e4eed203cca444b102f72455c9e42032
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
