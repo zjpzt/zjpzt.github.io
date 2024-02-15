@@ -91,13 +91,13 @@ http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
 https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=25251387fbfb04e63441cddd73c9bbc8&txTime=65cef043
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
-https://dispatchnew.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1687957854&rand=c472GHhVpl&uuid=9b647b3816b2a66a&from=web&sign=833b8b4b1fc3333cd3278d73e223d86e
+https://ldncctvwbcdks.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203802.m3u8
+https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204802.m3u8
+https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
