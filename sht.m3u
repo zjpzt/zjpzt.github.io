@@ -89,9 +89,9 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0, group-title="SINGAPURA", MEDIACORP CHANNEL 5
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
-https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=25251387fbfb04e63441cddd73c9bbc8&txTime=65cef043
+https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=634e40b37574f53e12902f5d9324546f&txTime=65d0510a
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",bbc new
-https://helpfulpost.net/bbcnews/index.m3u8?token=6a632620f09f8e85fd0416afcff5da9c5a91cb39-b4abf561b7170693cfff9184cfbc39dc-1708067600-1708056800
+https://helpfulpost.net/bbcnews/tracks-v1a1/mono.m3u8?token=1e377a8d8f2170de0d20885bb293d8d1aa2c5281-f632d3285e1fe500bcbb82a2be8f5f96-1708092131-1708081331
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
