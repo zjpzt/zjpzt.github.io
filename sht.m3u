@@ -91,7 +91,7 @@ http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
 https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=634e40b37574f53e12902f5d9324546f&txTime=65d0510a
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",bbc new
-https://helpfulpost.net/bbcnews/tracks-v1a1/mono.m3u8?token=1e377a8d8f2170de0d20885bb293d8d1aa2c5281-f632d3285e1fe500bcbb82a2be8f5f96-1708092131-1708081331
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
