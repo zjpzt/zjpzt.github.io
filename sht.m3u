@@ -94,8 +94,8 @@ https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=d9f71caa66e0c2efd84d5a5
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",tvbs hd
 https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8?token=CsQ57zMNf0UVmC--lUzAnA&expires=1708242887
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",tvb翡翠台
+https://euorigin.scdn.eu.org/live/tvb_jade.m3u8?token=AAs7OKasSol_HTdFwtmLmg&expires=1708243031
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?b=200-2100
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
