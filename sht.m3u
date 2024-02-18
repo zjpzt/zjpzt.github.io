@@ -92,8 +92,8 @@ http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=ecb5a5d41676389487
 https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=d9f71caa66e0c2efd84d5a56fd4fe2b4&txTime=65d1553d
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",bbc new
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
-https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",tvbs hd
+https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8?token=CsQ57zMNf0UVmC--lUzAnA&expires=1708242887
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
