@@ -74,15 +74,14 @@ https://s3-e1.dnvodcdn.me/ppot/_definst_/mp4:s3/live/dy-spjszzsdja-576p-022E0D31
 https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8?stream_id=m3u8&timestamp=1685664091&rand=g6PlzQoG71&uuid=9b647b3816b2a66a&from=web&sign=e4eed203cca444b102f72455c9e42032
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
 http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东森新闻 (翡翠台) (720p)
-https://cdn1.yeslivetv.com/live/ebcnews.m3u8?md5=xYXxSaokb2_N9dVz_sZXxQ&expires=1688043305
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",tvbshd (翡翠台) (720p)
-https://tw11.yeslivetv.com/4gtv-4gtv073/index.m3u8?md5=OUo072xn9wP_FBF5W-hH5A&expires=1687957848
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",8tv (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&timestamp=1686218912&rand=iyT6zqYQRA&uuid=9b647b3816b2a66a&from=web&sign=f49084880504330ad12697bf792d318c
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",cnn (翡翠台) (720p)
-https://dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&timestamp=1686221385&rand=ZSub42iOla&uuid=9b647b3816b2a66a&from=web&sign=d1cfe8285d468df9aa9c660634178b5c
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
+#EXTINF:-1 ,翡翠台
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+#EXTINF:-1 ,翡翠台
+http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+#EXTINF:-1 ,翡翠台
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+#EXTINF:-1 ,翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686221103&rand=Kq4KjC6Lk8&uuid=9b647b3816b2a66a&from=web&sign=c84aa29629f44be8a81a955bde04ecbf
 #EXTINF:0, group-title="SINGAPURA", sky new
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -131,76 +130,3 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMaHZWVFZoNEpVd3JoZWNHOGVReVgxZ1JDQ1ozdmx1OXhwMnVZemg4cTJpc1dtWXdmT1dEcFRHM2lmU1lMemRETHVtRlVsaTVrLVdBWTRyczNqY0Z5R3ZvaWJSa0tkMVBhd0IwRmpPNEU5dmh4TVlveVAxaEtWRXNQVUR5TndkOGFkeHFrR0JTd18yOTV5bDFiNUx1RVNsZW5LVFBfaDJ6dl82QmRaR2hJWjQzU3RKcnVERDdDMmJmMWFnUTFzclVEODF6NjVHNFZ5WUd0enk0aWFmMDZaeEowMHdNY2VJSjA5TjFwV041U0tHcHk4QVRwZzZOcDRHQ1lDRmgxckcxTWJrd1Q3Wml3TzZpbWloVlRuWWJVSTV0SUI4MTB4UmFQUmY4XzA1MDFsWmw3dmthZ2FGSE9fS3lyLUdIYmdZNjBzZjRSR1dsMExHTDFDOFFYeTlUSDU4NUk2YUpNY0dDWVpHeTQzSWRVNzkmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMaHZWVFZoNEpVd3JoZWNHOGVReVgxZ1JDQ1ozdmx1OXhwMnVZemg4cTJpc1dtWXdmT1dEcFRHM2lmU1lMemRETHVtRlVsaTVrLVdBWTRyczNqY0Z5R3ZvaWJSa0tkMVBhd0IwRmpPNEU5dmh4TVlveVAxaEtWRXNQVUR5TndkOGFkeHFrR0JTd18yOTV5bDFiNUx1RVNsZW5LVFBfaDJ6dl82QmRaR2hJWjQzU3RKcnVERDdDMmJmMWFnUTFzclVEODF6NjVHNFZ5WUd0enk0aWFmMDZaeEowMHdNY2VJSjA5TjFwV041U0tHcHk4QVRwZzZOcDRHQ1lDRmgxckcxTWJrd1Q3Wml3TzZpbWloVlRuWWJVSTV0SUI4MTB4UmFQUmY4XzA1MDFsWmw3dmthZ2FGSE9fS3lyLUdIYmdZNjBzZjRSR1dsMExHTDFDOFFYeTlUSDU4NUk2YUpNY0dDWVpHeTQzSWRVNzkiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=AqUwiwm3MavQG6msVPDbzOCD9yI%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-翡翠台,http://113.117.74.7:8081/hls/67/index.m3u8
-翡翠台,http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
-翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade.ts
-汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
-中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
-翡翠台,http://66.181.39.224/ml.php?id=jade_twn
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
-翡翠台,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306344
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-華麗翡翠台,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306430
-香港 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-央视,#genre#
-CCTV-1 综合,http://192.168.10.1:8888/rtp/239.10.0.114:1025
-CCTV-2 综合,http://192.168.10.1:8888/rtp/239.10.0.207:1025
-CCTV-3 综艺,http://192.168.10.1:8888/rtp/239.20.0.28:3292
-CCTV-4 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-CCTV-5 体育,http://192.168.10.1:8888/rtp/239.10.0.102:1025
-CCTV-5+,http://192.168.10.1:8888/rtp/239.10.0.213:1025
-CCTV-6 电影,http://192.168.10.1:8888/rtp/239.20.0.29:3288
-CCTV-7 国防军事,http://192.168.10.1:8888/rtp/239.10.0.208:1025
-CCTV-8 电视剧,http://192.168.10.1:8888/rtp/239.20.0.31:3280
-CCTV-9 纪录,http://192.168.10.1:8888/rtp/239.10.0.209:1025
-CCTV-10 科教,http://192.168.10.1:8888/rtp/239.20.0.200:2198
-CCTV-13 新闻,http://192.168.10.1:8888/rtp/239.21.0.88:3692
-卫视,#genre#
-东方卫视,http://192.168.10.1:8888/rtp/239.20.0.173:2144
-深圳卫视,http://192.168.10.1:8888/rtp/239.20.0.122:2042
-浙江卫视,http://192.168.10.1:8888/rtp/239.20.0.169:2136
-湖南卫视,http://192.168.10.1:8888/rtp/239.20.0.105:2008
-江苏卫视,http://192.168.10.1:8888/rtp/239.20.0.170:2138
-广东卫视超清,http://192.168.10.1:8888/rtp/239.20.0.99:3004
-南方卫视,http://192.168.10.1:8888/rtp/239.21.0.84:3676
-广东新闻,http://192.168.10.1:8888/rtp/239.21.0.93:3712
-地方,#genre#
-汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
-汕头-综合,http://192.168.10.1:8888/rtp/239.21.0.101:3744
-汕头-文体,http://192.168.10.1:8888/rtp/239.21.0.103:3752
-揭阳-综合,http://192.168.10.1:8888/rtp/239.21.0.91:3704
-揭阳-公共,http://192.168.10.1:8888/rtp/239.21.0.92:3708
-潮州-综合,http://192.168.10.1:8888/rtp/239.21.0.145:3924
-潮州-民生,http://192.168.10.1:8888/rtp/239.21.0.146:3928
