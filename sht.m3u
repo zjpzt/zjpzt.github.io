@@ -74,8 +74,8 @@ https://s3-e1.dnvodcdn.me/ppot/_definst_/mp4:s3/live/dy-spjszzsdja-576p-022E0D31
 https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8?stream_id=m3u8&timestamp=1685664091&rand=g6PlzQoG71&uuid=9b647b3816b2a66a&from=web&sign=e4eed203cca444b102f72455c9e42032
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
 http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
-#EXTINF:-1 ,翡翠台
-http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 ,东森新闻
+https://euorigin.scdn.eu.org/live/ebc.m3u8?token=QvuH96KsTYUB3QXBYpcn7Q&expires=1715225731
 #EXTINF:-1 ,翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 ,翡翠台
