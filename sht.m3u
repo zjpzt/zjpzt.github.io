@@ -59,13 +59,13 @@ https://cdn22.kuaikandongman.cc/m3u8/2024xianggangxiaojie/out01/playlist.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB1 Jade (翡翠台) (720p)
 http://r.jdshipin.com/62WM7
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",channel 8 Jade (翡翠台) (720p)
-http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+http://50.7.234.10:8278/TV8/playlist.m3u8?
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",channel u Jade (翡翠台) (720p)
-https://3gc5nhcjigyzdgcjqgr4uq.wslivehls.com/ws-channels.kksmg.com/live/ylpd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOiJsaXZlIiwiZG9tYWluIjoid3MtY2hhbm5lbHMua2tzbWcuY29tIiwiZXhwIjoxNzI2OTMxMjE4LCJpYXQiOjE3MjY5MDk2MTgsIm5vbmNlIjoiY2E3ZjczM2IiLCJzdHJlYW1fbmFtZSI6InlscGQiLCJ1c2VyX2lkIjowLCJ1c2VyX2lwIjoiMjQwOTo4YTIwOjFjODE6ZDJjMDo0ODc6MTAyMzpjM2RhOmZlMTMiLCJ1dWlkIjoia04wMkhOeDJkOW9acTdsQzNJN0I1In0.9gwOx-5dDfy-oCEbv4SW-mVi1kEysVhLKaKkiwzgUAw&wsSession=32d41f3f8836846e1869789d-172691200872254&wsIPSercert=bc08fc9155f8fa5bbd480f6190dd5e28&wsiphost=local&wsBindIP=1
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",channel 5 Jade (翡翠台) (720p)
 http://r.jdshipin.com/n90gt
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",viutv Jade (翡翠台) (720p)
-https://ws-channels.kksmg.com/live/ylpd/playlist.m3u8?wsSecret=53ba06145ccfb2e4179605e5d987a89c&wsTime=1726931237&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHAiOiJsaXZlIiwiZG9tYWluIjoid3MtY2hhbm5lbHMua2tzbWcuY29tIiwiZXhwIjoxNzI2OTMxMjE4LCJpYXQiOjE3MjY5MDk2MTgsIm5vbmNlIjoiY2E3ZjczM2IiLCJzdHJlYW1fbmFtZSI6InlscGQiLCJ1c2VyX2lkIjowLCJ1c2VyX2lwIjoiMjQwOTo4YTIwOjFjODE6ZDJjMDo0ODc6MTAyMzpjM2RhOmZlMTMiLCJ1dWlkIjoia04wMkhOeDJkOW9acTdsQzNJN0I1In0.9gwOx-5dDfy-oCEbv4SW-mVi1kEysVhLKaKkiwzgUAw
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",J2 Jade (翡翠台) (720p)
 http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",now Jade (翡翠台) (720p)
