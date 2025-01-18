@@ -92,7 +92,7 @@ https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=d9f71caa66e0c2efd84d5a5
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",bbc new
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",tvbs hd
-https://yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8?token=d_BtoaDdgCUqebTx3ypfqw&expires=1708272238
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",tvb翡翠台
 https://euorigin.scdn.eu.org/live/tvb_jade.m3u8?token=5Ut6SYqVLCi1C8-5kLGILg&expires=1708272315
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
