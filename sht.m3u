@@ -69,7 +69,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",J2 Jade (翡翠台) (720p)
 http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",now Jade (翡翠台) (720p)
-http://119.32.12.32:2901/udp/224.1.100.121:11111
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",毒舌 (翡翠台) (720p)
 http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",东方卫视 (翡翠台) (720p)
